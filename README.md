@@ -1,1 +1,2 @@
-# c20-detectCollision
+# C20
+Designing Algorithms
